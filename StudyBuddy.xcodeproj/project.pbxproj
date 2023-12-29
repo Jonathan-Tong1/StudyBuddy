@@ -11,6 +11,7 @@
 		E5C406402B3F167400487FF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C4063F2B3F167400487FF0 /* ContentView.swift */; };
 		E5C406422B3F167A00487FF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5C406412B3F167A00487FF0 /* Assets.xcassets */; };
 		E5C406452B3F167A00487FF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5C406442B3F167A00487FF0 /* Preview Assets.xcassets */; };
+		E5C4064C2B3F175E00487FF0 /* Assessment.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C4064B2B3F175E00487FF0 /* Assessment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E5C4063F2B3F167400487FF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E5C406412B3F167A00487FF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5C406442B3F167A00487FF0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E5C4064B2B3F175E00487FF0 /* Assessment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assessment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E5C4063D2B3F167400487FF0 /* StudyBuddyApp.swift */,
 				E5C4063F2B3F167400487FF0 /* ContentView.swift */,
+				E5C4064B2B3F175E00487FF0 /* Assessment.swift */,
 				E5C406412B3F167A00487FF0 /* Assets.xcassets */,
 				E5C406432B3F167A00487FF0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5C4064C2B3F175E00487FF0 /* Assessment.swift in Sources */,
 				E5C406402B3F167400487FF0 /* ContentView.swift in Sources */,
 				E5C4063E2B3F167400487FF0 /* StudyBuddyApp.swift in Sources */,
 			);
